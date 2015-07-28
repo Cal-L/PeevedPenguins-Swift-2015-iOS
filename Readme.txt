@@ -1,6 +1,7 @@
 ————————————————————————————————————————————————————————————————————————————————————————————————————
-	THIS IS THE COMPLETE SWIFT VERSION OF THE GAME PEEVED PENGUINS WHICH CAN BE FOUND ON
-
+		THIS IS THE COMPLETE SWIFT VERSION OF THE GAME PEEVED PENGUINS
+		
+			THE OBJECTIVE-C VERSION CAN BE FOUND AT:
   https://www.makeschool.com/tutorials/getting-started-with-spritebuilder/installing-spritebuilder 
 ————————————————————————————————————————————————————————————————————————————————————————————————————
 
